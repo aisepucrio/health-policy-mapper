@@ -1,0 +1,91 @@
+Country,Country Alpha-3 Code,Partner Management,HBV screening for HbsAg,Vaccination for HBV,Vaccination for HPV,Syphilis Screening,NG Screening,CT Screening
+Albania,ALB,No,Yes,Yes,Yes,Yes,Yes,Yes
+Andorra,AND,No,Yes,Yes,Yes,Yes,Yes,Yes
+Argentina,ARG,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Armenia,ARM,No,Yes,Yes,No,Yes,Yes,Yes
+Australia,AUS,Yes,Yes,Yes,No,Yes,Yes,Yes
+Austria,AUT,Yes,Yes,Yes,No,Yes,Yes,Yes
+Bahamas (the),BHS,No,Yes,Yes,No,Yes,No,No
+Barbados,BRB,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Belarus,BLR,No,Yes,No,No,No,No,No
+Belgium,BEL,No,Yes,Yes,No,Yes,Yes,Yes
+Benin,BEN,No,Yes,Yes,No,Yes,Yes,Yes
+Bosnia and Herzeogovina,BIH,No,Yes,No,No,Yes,Yes,Yes
+Botswana,BWA,No,No,No,No,No,No,No
+Brazil,BRA,No,Yes,Yes,No,Yes,Yes,Yes
+Burkina Faso,BFA,No,Yes,Yes,No,Yes,Yes,Yes
+Burundi,BDI,No,No,No,No,No,No,No
+Cambodia,KHM,No,Yes,Yes,No,Yes,Yes,Yes
+Cameroon,CMR,No,Yes,No,No,No,No,No
+Canada,CAN,Yes,Yes,Yes,No,Yes,Yes,Yes
+Cuba,CUB,Yes,Yes,Yes,No,Yes,Yes,Yes
+Czech Republic,CZE,No,Yes,Yes,No,Yes,Yes,Yes
+Côte d'Ivoire,CIV,No,Yes,Yes,No,No,No,No
+Democratic People's Republic of South Korea ,KOR,No,Yes,Yes,No,Yes,Yes,Yes
+Democratic Republic of the Congo,COD,No,Yes,Yes,No,Yes,Yes,Yes
+Denmark,DNK,No,Yes,Yes,No,Yes,Yes,Yes
+Ecuador,ECU,No,Yes,No,No,No,No,No
+El Salvador,SLV,No,Yes,No,No,Yes,Yes,Yes
+Eritrea,ERI,No,Yes,No,No,No,No,No
+Estonia,EST,No,Yes,No,No,No,No,No
+Eswatini,SWZ,No,Yes,Yes,No,No,No,No
+Ethiopia,ETH,No,Yes,No,No,No,No,No
+Fiji,FJI,No,Yes,No,No,Yes,No,No
+Finland,FIN,Yes,Yes,Yes,No,Yes,Yes,Yes
+France,FRA,No,Yes,Yes,Yes,Yes,Yes,Yes
+Georgia,GEO,No,Yes,Yes,No,Yes,Yes,Yes
+Germany,DEU,Yes,Yes,Yes,No,Yes,Yes,Yes
+Ghana ,GHA,No,Yes,No,No,Yes,No,No
+Guyana,GUY,No,Yes,Yes,No,Yes,Yes,Yes
+Haiti,HTI,No,Yes,No,No,Yes,Yes,Yes
+Honduras,HND,No,Yes,Yes,No,Yes,No,No
+Iceland,ISL,No,Yes,No,No,Yes,Yes,Yes
+India,IND,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Indonesia,IDN,No,Yes,Yes,No,Yes,Yes,Yes
+Iran (Islamic Republic of),IRN,No,Yes,Yes,No,Yes,No,No
+Ireland,IRL,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Israel,ISR,No,Yes,Yes,No,Yes,Yes,Yes
+Italy,ITA,No,Yes,Yes,Yes,No,No,No
+Kazakistan,KAZ,No,No,No,No,Yes,Yes,Yes
+Kenya,KEN,No,Yes,Yes,No,Yes,No,No
+Kyrgyzstan,KGZ,No,Yes,Yes,No,Yes,Yes,Yes
+Lao People's Democratic Republic,LAO,No,Yes,Yes,No,Yes,Yes,Yes
+Lesotho,LSO,No,Yes,No,Yes,Yes,No,No
+Malaysia,MYS,No,Yes,Yes,No,Yes,Yes,Yes
+Mali,MLI,No,Yes,No,No,No,No,No
+Mexico,MEX,No,Yes,Yes,Yes,Yes,No,No
+Moldova (Republic of),MDA,No,Yes,Yes,No,Yes,No,No
+Mongolia,MNG,No,Yes,Yes,No,No,No,No
+Myanmar,MMR,No,Yes,Yes,No,Yes,Yes,Yes
+N.Macedonia,MKD,No,Yes,Yes,No,Yes,Yes,Yes
+Namibia,NAM,No,Yes,No,No,Yes,No,No
+Nepal,NPL,No,Yes,Yes,No,Yes,No,No
+Netherlands,NLD,No,Yes,Yes,Yes,Yes,Yes,Yes
+New Zealand,NZL,Yes,Yes,Yes,No,Yes,Yes,Yes
+Nigeria,NGA,No,Yes,No,No,Yes,Yes,Yes
+Norway,NOR,No,No,No,No,No,No,No
+Pakistan,PAK,Yes,Yes,Yes,No,No,No,No
+Panama,PAN,No,Yes,No,No,Yes,No,No
+Paraguay,PRY,No,Yes,Yes,Yes,Yes,Yes,Yes
+Philippines,PHL,No,Yes,Yes,No,No,No,No
+Poland,POL,No,Yes,Yes,Yes,Yes,Yes,Yes
+Portugal,PRT,No,Yes,Yes,Yes,Yes,Yes,Yes
+Sierra Leone,SLE,No,Yes,No,No,No,No,No
+Singapore,SGP,No,Yes,Yes,Yes,Yes,Yes,Yes
+Slovakia,SVK,No,Yes,Yes,No,Yes,Yes,Yes
+South Africa,ZAF,No,Yes,Yes,No,No,No,No
+South Sudan,SSD,No,Yes,No,No,No,No,No
+Spain,ESP,No,Yes,Yes,Yes,Yes,Yes,Yes
+Sweden,SWE,No,Yes,Yes,No,Yes,Yes,Yes
+Switzerland,CHE,No,Yes,Yes,No,Yes,Yes,Yes
+Tajikistan,TJK,No,Yes,Yes,No,No,No,No
+Thailand,THA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+UK and N Ireland,GBR,No,Yes,Yes,No,Yes,Yes,Yes
+USA,USA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Uganda,UGA,No,Yes,No,No,No,No,No
+Ukraine,UKR,No,Yes,Yes,No,Yes,No,No
+Uruguay,URY,No,Yes,Yes,Yes,Yes,Yes,Yes
+Uzbekistan,UZB,No,Yes,Yes,No,Yes,No,No
+Vietnam,VNM,No,Yes,Yes,No,Yes,Yes,Yes
+Zambia,ZMB,No,Yes,No,No,Yes,No,No
+Zimbabwe,ZWE,No,Yes,Yes,No,Yes,No,No

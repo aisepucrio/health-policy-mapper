@@ -1,0 +1,25 @@
+Evaluation Results for 90_prep_sti
+Model: gemini-2.5-pro
+Timestamp: 2025-08-21_21-30-10
+==================================================
+
+Dataset Overview:
+  Reference countries: 90
+  Generated countries: 92
+  Common countries: 90
+  Extra in generated: SVN, TZA
+
+Overall Metrics:
+  Accuracy: 88.41% (557/630)
+  Precision: 89.50%
+  Recall: 90.25%
+  F1 Score: 89.88%
+
+Per-Column Accuracy:
+  partner_management: 81.11%
+  hbv_screening_for_hbsag: 94.44%
+  vaccination_for_hbv: 84.44%
+  vaccination_for_hpv: 88.89%
+  syphilis_screening: 87.78%
+  ng_screening: 90.00%
+  ct_screening: 92.22%

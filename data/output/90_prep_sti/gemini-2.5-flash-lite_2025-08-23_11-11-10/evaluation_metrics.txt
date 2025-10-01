@@ -1,0 +1,26 @@
+Evaluation Results for 90_prep_sti
+Model: gemini-2.5-flash-lite
+Timestamp: 2025-08-23_11-11-10
+==================================================
+
+Dataset Overview:
+  Reference countries: 90
+  Generated countries: 43
+  Common countries: 41
+  Missing in generated: AND, ARG, ARM, AUT, BFA, BHS, BIH, BLR, BRB, CIV, CMR, COD, CUB, CZE, DEU, DNK, ECU, ESP, FJI, FRA, GBR, HND, HTI, IDN, IRN, KAZ, KEN, LAO, MDA, MKD, NAM, NGA, NLD, NPL, NZL, PAN, PHL, PRT, PRY, SSD, SWE, TJK, UGA, UKR, USA, UZB, VNM, ZMB, ZWE
+  Extra in generated: AUT, DEU, SVN
+
+Overall Metrics:
+  Accuracy: 78.75% (226/287)
+  Precision: 77.60%
+  Recall: 87.65%
+  F1 Score: 82.32%
+
+Per-Column Accuracy:
+  partner_management: 80.49%
+  hbv_screening_for_hbsag: 92.68%
+  vaccination_for_hbv: 78.05%
+  vaccination_for_hpv: 87.80%
+  syphilis_screening: 73.17%
+  ng_screening: 68.29%
+  ct_screening: 70.73%
