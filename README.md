@@ -5,7 +5,7 @@ This repository contains the Health Policy Mapper system, an automated tool for 
 ---
 
 ## Extraction Module
-Through the upload of public health documents, along with research context and the definition of expected columns (with descriptions provided by the user), the system performs structured information extraction, generates justifications for each identified variable, and consolidates the results into tables ready for analysis. This reduces manual effort for researchers and enables more agile and consistent monitoring of health policies.
+Through the upload of public health documents, along with research context and the definition of expected columns (with descriptions provided by the user), the system performs structured information extraction using Large Language Models (LLMs), generates justifications for each identified variable, and consolidates the results into tables ready for analysis. This reduces manual effort for researchers and enables more agile and consistent mapping and monitoring of public health policies.
 
 ## Folder Structure
 
